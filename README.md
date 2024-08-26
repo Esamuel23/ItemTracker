@@ -12,5 +12,5 @@ I did very well with in-line comments this code is easily managed with the purpo
 This program can be easily improved due to Main not being cluttered. New classes and functions can easily be implemented. Features that could enhance this program
 are implementing try/catch error handling to prevent this program from crashing to unexpected errors.
 
-The most difficult part of this project was implementing the displayHistogram class. The syntax used was not the coomon sysntax I am accustomed to. 
-Transferable skills from this project are file input/output, switch cases, and data handling.
+The most difficult part of this project was implementing the displayHistogram class. It was the most complex sector.
+This project was engaging and improved my problem solving skills. This project also improved other transferable skills: file input/output, switch cases, and data handling.
